@@ -6,5 +6,5 @@ testflask.py merupakan hasil final yang sudah mengimplementasikan flask didalamn
 TUGAS_AI.CSV merupakan dataset yang sudah disiapkan berisi komentar riview sebuah produk yang diambil dari situs amazon
 
 Anggota Kelompok:
-1118009 - Michael Septian Jaua
+1118009 - Michael Septian Jaya
 1118013 - Nicholas Nathanael Wijaya
